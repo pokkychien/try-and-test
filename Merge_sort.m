@@ -10,5 +10,5 @@ mg = merge(num,1,HS);
 disp(mg)
 
 fprintf(HS,'%d\b', mg);
-
+%然後就好像可以?
 
